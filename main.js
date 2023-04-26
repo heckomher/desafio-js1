@@ -1,6 +1,7 @@
 
 
 var receta2 = document.getElementById("r2");
+<<<<<<< Updated upstream
 receta2.innerHTML = "Receta 2";
 var titulo = document.getElementById("cambio1");
 titulo.innerHTML = "Comidas más ricas";
@@ -59,3 +60,6 @@ var tercercambiocomida =document.getElementById("terceracomida")
 comidanueva3.innerHTML = "Ensalada"
 
 
+=======
+receta2.innerHTML = "Receta 2"  
+>>>>>>> Stashed changes

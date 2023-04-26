@@ -1,12 +1,11 @@
 
 
 var receta2 = document.getElementById("r2");
-<<<<<<< Updated upstream
 receta2.innerHTML = "Receta 2";
 var titulo = document.getElementById("cambio1");
 titulo.innerHTML = "Comidas más ricas";
 
-
+//Cambios al NAV
 var tituloMenu = document.getElementById("tituloNav");
 tituloMenu.innerHTML = "Manso Bajón";
 
@@ -18,11 +17,16 @@ tituloContacto.innerHTML = "Contactar";
 
 var tituloBoton = document.getElementById("tituloBoton");
 tituloBoton.innerHTML = "Búsqueda";
+//Cambios al Footer
 var pie=document.getElementById("cambio100");
 pie.innerHTML="Super Grupo de Desarrolladores";
-
+//cambios en las cards
 var comida1 = document.getElementById("comidanueva");
 comida1.innerHTML = "Pakus";
+var segundocambiocomida =document.getElementById("segundacomida");
+comidanueva.innerHTML = "Empanada de pino en jarra";
+var tercercambiocomida =document.getElementById("terceracomida");
+comidanueva3.innerHTML = "Ensalada";
 
 //Se reemplazan los títulos en Off Canva
 var off1 = document.getElementById("offcanvasExampleLabel1");
@@ -54,12 +58,3 @@ var poff6 = document.getElementById("parrafoOff6");
 poff6.innerHTML = "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci eaque placeat ad, distinctiorem cum molestiae nam minima. Velit qui, repellendus modi vitae ipsam ipsa perferendis distinctio provident quos placeat? ";
 var poff7 = document.getElementById("parrafoOff7");
 poff7.innerHTML = "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci eaque placeat ad, distinctiorem cum molestiae nam minima. Velit qui, repellendus modi vitae ipsam ipsa perferendis distinctio provident quos placeat? ";
-var segundocambiocomida =document.getElementById("segundacomida")
-comidanueva.innerHTML = "Empanada de pino en jarra"
-var tercercambiocomida =document.getElementById("terceracomida")
-comidanueva3.innerHTML = "Ensalada"
-
-
-=======
-receta2.innerHTML = "Receta 2"  
->>>>>>> Stashed changes
